@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">InYeon</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!--Layout Name - fragment_home -->
+    <string name="recommendation">오늘의 인연</string>
+    <string name="moreRecommendation">인연 더 보기</string>
+    <string name="idealType">이상형 추천</string>
+    <string name="topTenPercentRecommendation">상위 10%의 인연 추천</string>
+    <string name="TravelRecommendation">여행을 좋아하는 그녀</string>
+    <string name="tallRecommendation">167cm 이상 그녀</string>
+    <string name="shortRecommendation">160cm 이하 그녀</string>
+    <string name="idealTypeSelect">선택</string>
+    <string name="idealTypeAllView">추천 항목 모두 보기</string>
+
+    <!--Layout Name - fragment_home -->
+    <string name="sendFavorite">보낸 호감</string>
+    <string name="receiveFavorite">받은 호감</string>
+    <string name="sendHighScore">내가 높은 점수를 준 이성</string>
+    <string name="receiveHighScore">나에게 높은 점수를 준 이성</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <!--Layout Name - fragment_message -->
+    <string name="talkBlank">진행 중인 대화가 없습니다.</string>
+
+
+    <!--Layout Name - fragment_store -->
+    <string name="itemBuy">아이템 구매</string>
+    <string name="itemInventory">보유 아이템</string>
+    <string name="buyMembership">회원권 구매</string>
+</resources>

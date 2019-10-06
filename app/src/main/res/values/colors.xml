@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--Layout Name - fragment_home -->
+    <color name="moreRecommendationButtonBackground">#2196F3</color>
+    <color name="moreRecommendationButtonText">#CBFFFFFF</color>
+    <color name="idealTypeSelectButtonText">#FFFFFF</color>
+    <color name="idealTypeSelectButtonBackgound">#FFB4B4</color>
+
+
+
+    <!--Layout Name - fragment_message -->
+    <color name="talkBlank">#000000</color>
+
+
+
+    <!--Layout Name - activity_general_login-->
+    <color name="loginBackground">#FDB4D1</color>
+    <color name="editTextBackground">#EE9494</color>
+
+</resources>
