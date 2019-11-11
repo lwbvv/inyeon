@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="380dp"
+              android:layout_height="wrap_content"
+              android:background="@drawable/background_round_corner_white"
+        >
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="지역"
+            android:textSize="30dp"
+            />
+
+    <NumberPicker
+            android:id="@+id/dia_signUp_area_numberPicker"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/DefaultNumberPickerTheme"
+            >
+    </NumberPicker>
+    <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#B9B9B9"
+            ></View>
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+    <Button
+            android:id="@+id/dia_signUp_area_cancel"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#ffffff"
+            android:textStyle="bold"
+            android:text="취소"
+            android:textColor="#A0A0A0"
+            android:textSize="16dp"
+
+            />
+        <View
+                android:layout_width="1dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                android:background="#B9B9B9"
+                ></View>
+        <Button
+                android:id="@+id/dia_signUp_area_success"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="#ffffff"
+                android:textStyle="bold"
+                android:text="확인"
+                android:textColor="@color/loginBackground"
+                android:textSize="16dp"
+                />
+
+    </LinearLayout>
+</LinearLayout>

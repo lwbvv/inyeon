@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
 
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
@@ -18,4 +18,29 @@
     <style name="CustomRadioButton" parent="Theme.AppCompat.Light">
         <item name="colorAccent">#FF78BF</item>
     </style>
+
+
+
+
+
+    <!--넘버피커 라인색상-->
+    <style name="DefaultNumberPickerTheme" parent="AppTheme">
+        <item name="colorControlNormal">@color/loginBackground</item>
+    </style>
+    
+    
+    
+    
+    
+    <!--회원가입 디테일 부분-->
+    <style name="CustomEditText"  parent="Widget.AppCompat.EditText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:layout_marginBottom">15dp</item>
+        <item name="android:backgroundTint" tools:targetApi="lollipop">@android:color/white</item>
+        <item name="android:paddingLeft">24dp</item>
+
+    </style>
+    
 </resources>
