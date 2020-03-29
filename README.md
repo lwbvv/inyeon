@@ -39,9 +39,9 @@ _데이트 어플리케이션 - 매일매일 새로운 인연을 만나보아요
 
 ## 평가페이지
 <p>
-<img src="https://user-images.githubusercontent.com/49789441/77643463-c0e77200-6fa2-11ea-8453-1120767c1ebd.png"  width="200" height="340">
-<img src="https://user-images.githubusercontent.com/49789441/77643465-c1800880-6fa2-11ea-96e2-43d95f2e6839.png"  width="200" height="340">
-<img src="https://user-images.githubusercontent.com/49789441/77643471-c349cc00-6fa2-11ea-89d8-c43d3e036ef9.png"  width="200" height="340">
+<img src="https://user-images.githubusercontent.com/49789441/77850406-4ec69580-720d-11ea-8cb1-9d0359e4fe4e.jpg"  width="200" height="340">
+<img src="https://user-images.githubusercontent.com/49789441/77850409-525a1c80-720d-11ea-99a9-a89d09be0a1a.jpg"  width="200" height="340">
+<img src="https://user-images.githubusercontent.com/49789441/77850415-57b76700-720d-11ea-9234-e5210d12637b.jpg"  width="200" height="340">
 </p>
 
 + 가입심사중인 이성의 점수를 매기는 부분
